@@ -1,2 +1,4 @@
 ovo je neka poruka u info dat
 korisnik na ovom računalu: 
+
+edit in repo
